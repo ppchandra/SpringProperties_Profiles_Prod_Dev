@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringProperties.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringProperties_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringProperties_main.iml" group="SpringProperties" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringProperties_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringProperties_test.iml" group="SpringProperties" />
+    </modules>
+  </component>
+</project>
